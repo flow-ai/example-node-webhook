@@ -11,7 +11,7 @@
 ### 2. Clone this repo and install packages
 
 ```bash
-git clone https://github.com/flowai/flowai-js-webhook-example
+git clone https://github.com/flow-ai/example-node-webhook.git
 cd flowai-example-node-webhook
 npm install
 ```
