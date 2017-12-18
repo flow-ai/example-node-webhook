@@ -26,11 +26,11 @@ The server will run on http://localhost:3009 and print incoming webhooks.
 
 ### 4. Deploy online or fire up a ngrok tunnel
 
-Deploy your webhook on heroku
+**Deploy to heroku**
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-Run a local [ngrok](https://ngrok.com/) tunel
+**Run a local [ngrok](https://ngrok.com/) tunnel**
 
 ```bash
 ngrok http -subdomain=inconshreveable 80
