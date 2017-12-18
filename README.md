@@ -2,6 +2,8 @@
 
 [Webhooks](https://docs.flow.ai/overview/code/webhook.html) are an integration method of Flow.ai based on a *we call you* principle.
 
+![](/assets/header.png)
+
 ## Getting started
 
 ### 1. Install [Node.js](https://nodejs.org)
