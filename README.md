@@ -48,4 +48,7 @@ Enter the url of your webhook endpoint and press save.
 
 Next, configure a flow with the [design app](https://app.flow.ai/design) that triggers an action. For the action select the webhook you just created.
 
-That's really all it takes to start responding to webhooks.
+That's really all it takes to start responding to webhook calls.
+
+## Further reading
+Please view our [webhook documentation](https://docs.flow.ai/overview/code/webhook.html) for more info about the messages you receive and how to send messages back.
