@@ -11,9 +11,9 @@
   "author": "Flow.ai",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "flowai-js-templates": "^1.3.5",
-    "request": "^2.83.0"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "flowai-js-templates": "^1.6.1",
+    "request": "^2.88.0"
   }
 }
