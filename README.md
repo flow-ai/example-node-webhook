@@ -51,4 +51,5 @@ Next, configure a flow with the [design app](https://app.flow.ai/design) that tr
 That's really all it takes to start responding to webhook calls.
 
 ## Further reading
-Please view our [webhook documentation](https://docs.flow.ai/overview/code/webhook.html) for more info about the messages you receive and how to send messages back.
+
+Please view our [webhook documentation](https://flow.ai/docs/actions/webhook) for more info about the messages you receive and how to send messages back.
